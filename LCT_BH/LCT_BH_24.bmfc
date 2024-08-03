@@ -1,0 +1,70 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Roboto Black
+fontFile=
+charSet=0
+fontSize=24
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=300
+outHeight=30
+outBitDepth=8
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+
+
+# imported icon images
+icon="water-dispenser-24.png",49,0,0,2
+icon="banana-24.png",50,0,0,2
+icon="soup-24.png",51,0,0,2
+icon="user-24.png",52,0,0,0
+icon="gym-bag-24.png",53,0,0,2
+icon="sleep-24.png",54,0,0,2
+icon="timer-24.png",55,0,0,2
+icon="snowed-mountains-24.png",56,0,0,2
+icon="racing-flag-24.png",57,0,0,2
+icon="location-24.png",48,0,0,0
+icon="emplacement24.png",65,0,0,0

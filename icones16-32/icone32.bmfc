@@ -1,0 +1,74 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Roboto Black
+fontFile=
+charSet=0
+fontSize=32
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=200
+outHeight=200
+outBitDepth=8
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+
+
+# imported icon images
+icon="mountain-15-32.png",48,0,0,0
+icon="speed-22-32.png",49,0,0,0
+icon="averageSpeed-32.png",50,0,0,0
+icon="arrow-up-37-32.png",51,0,0,0
+icon="arrow-down-37-32.png",52,0,0,0
+icon="running-group-32.png",53,0,0,0
+icon="speed-up-32.png",56,0,0,0
+icon="speed-of-progress-8-32.png",54,0,0,0
+icon="energy-consumption-2-32.png",55,0,0,0
+icon="heart-92-32.png",57,0,0,0
+icon="pin-drop-32.png",97,0,0,0
+icon="diagonal-arrow-right-up-32.png",117,0,0,0
+icon="diagonal-arrow-right-down-32.png",100,0,0,0
+icon="calories32.png",99,0,0,0
+icon="clock32.png",104,0,0,0
