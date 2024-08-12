@@ -54,20 +54,24 @@ invB=0
 outlineThickness=0
 
 # selected chars
-
+chars=32,40-41,43,45,47-58,61,124
 
 # imported icon images
-icon="../icones16-32/mountain-15-32.png",48,0,0,0
-icon="../icones16-32/speed-22-32.png",49,0,0,0
-icon="../icones16-32/averageSpeed-32.png",50,0,0,0
-icon="../icones16-32/arrow-up-37-32.png",51,0,0,0
-icon="../icones16-32/arrow-down-37-32.png",52,0,0,0
-icon="../icones16-32/running-group-32.png",53,0,0,0
-icon="../icones16-32/speed-up-32.png",56,0,0,0
-icon="../icones16-32/energy-consumption-2-32.png",55,0,0,0
-icon="../icones16-32/heart-92-32.png",57,0,0,0
+icon="../icones16-32/mountain-15-32.png",102,0,0,0
+icon="../icones16-32/speed-22-32.png",103,0,0,0
+icon="../icones16-32/averageSpeed-32.png",105,0,0,0
+icon="../icones16-32/arrow-up-37-32.png",106,0,0,0
+icon="../icones16-32/arrow-down-37-32.png",107,0,0,0
+icon="../icones16-32/running-group-32.png",108,0,0,0
+icon="../icones16-32/speed-up-32.png",109,0,0,0
+icon="../icones16-32/energy-consumption-2-32.png",110,0,0,0
+icon="../icones16-32/heart-92-32.png",111,0,0,0
 icon="../icones16-32/pin-drop-32.png",97,0,0,0
 icon="../icones16-32/diagonal-arrow-right-up-32.png",117,0,0,0
 icon="../icones16-32/diagonal-arrow-right-down-32.png",100,0,0,0
 icon="../icones16-32/calories32.png",99,0,0,0
 icon="../icones16-32/clock32.png",104,0,0,0
+icon="../icones16-32/cadence_32.png",98,0,0,0
+icon="../icones16-32/cassette-32.png",101,0,0,0
+icon="../icones16-32/sunrise-32.png",114,0,0,0
+icon="../icones16-32/sunset-32.png",115,0,0,0
