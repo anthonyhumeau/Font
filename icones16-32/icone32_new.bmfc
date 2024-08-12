@@ -54,7 +54,7 @@ invB=0
 outlineThickness=0
 
 # selected chars
-chars=32,40-41,43,45,47-58,61,124
+chars=32-63,91-96,123-126
 
 # imported icon images
 icon="mountain-15-32.png",102,0,0,0
