@@ -59,7 +59,7 @@ chars=32-64,91-96,123-126
 # imported icon images
 icon="../icones16-32/mountain-15-16.png",102,0,0,0
 icon="../icones16-32/speed-22-16.png",103,0,0,0
-icon="../icones16-32/averageSpeed-32.png",105,0,0,0
+icon="../icones16-32/averageSpeed-16.png",105,0,0,0
 icon="../icones16-32/arrow-up-37-16.png",106,0,0,0
 icon="../icones16-32/arrow-down-37-16.png",107,0,0,0
 icon="../icones16-32/running-group-16.png",108,0,0,0
